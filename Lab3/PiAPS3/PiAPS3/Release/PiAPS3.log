@@ -1,0 +1,60 @@
+﻿  main.cpp
+c:\users\игорь\yandexdisk\будущее миэт\6 семестр\пиапс\лабы 2018 решения\lab3\piaps3\piaps3\Aeroplane.h(72): error C2819: тип "std::pair<const _Kty,_Ty>" не имеет перегруженный "operator ->"
+          with
+          [
+              _Kty=std::pair<uint,uint>,
+              _Ty=Unit *
+          ]
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\map(70): note:  см. объявление "std::pair<const _Kty,_Ty>"
+          with
+          [
+              _Kty=std::pair<uint,uint>,
+              _Ty=Unit *
+          ]
+  c:\users\игорь\yandexdisk\будущее миэт\6 семестр\пиапс\лабы 2018 решения\lab3\piaps3\piaps3\Aeroplane.h(72): note: возможно, имеется в виду "."
+c:\users\игорь\yandexdisk\будущее миэт\6 семестр\пиапс\лабы 2018 решения\lab3\piaps3\piaps3\Aeroplane.h(72): error C2039: getWeight: не является членом "std::pair<const _Kty,_Ty>"
+          with
+          [
+              _Kty=std::pair<uint,uint>,
+              _Ty=Unit *
+          ]
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\map(70): note:  см. объявление "std::pair<const _Kty,_Ty>"
+          with
+          [
+              _Kty=std::pair<uint,uint>,
+              _Ty=Unit *
+          ]
+c:\users\игорь\yandexdisk\будущее миэт\6 семестр\пиапс\лабы 2018 решения\lab3\piaps3\piaps3\Aeroplane.h(77): error C2065: fc: необъявленный идентификатор
+c:\users\игорь\yandexdisk\будущее миэт\6 семестр\пиапс\лабы 2018 решения\lab3\piaps3\piaps3\Aeroplane.h(77): error C2228: выражение слева от ".size" должно представлять класс, структуру или объединение
+  c:\users\игорь\yandexdisk\будущее миэт\6 семестр\пиапс\лабы 2018 решения\lab3\piaps3\piaps3\Aeroplane.h(77): note: тип: unknown-type
+c:\users\игорь\yandexdisk\будущее миэт\6 семестр\пиапс\лабы 2018 решения\lab3\piaps3\piaps3\Aeroplane.h(78): error C2065: fc: необъявленный идентификатор
+c:\users\игорь\yandexdisk\будущее миэт\6 семестр\пиапс\лабы 2018 решения\lab3\piaps3\piaps3\Aeroplane.h(78): error C2228: выражение слева от ".push_back" должно представлять класс, структуру или объединение
+  c:\users\игорь\yandexdisk\будущее миэт\6 семестр\пиапс\лабы 2018 решения\lab3\piaps3\piaps3\Aeroplane.h(78): note: тип: unknown-type
+c:\users\игорь\yandexdisk\будущее миэт\6 семестр\пиапс\лабы 2018 решения\lab3\piaps3\piaps3\Aeroplane.h(84): error C2065: fc: необъявленный идентификатор
+c:\users\игорь\yandexdisk\будущее миэт\6 семестр\пиапс\лабы 2018 решения\lab3\piaps3\piaps3\Aeroplane.h(84): error C3312: не найдена вызываемая функция "begin" для типа "unknown-type"
+c:\users\игорь\yandexdisk\будущее миэт\6 семестр\пиапс\лабы 2018 решения\lab3\piaps3\piaps3\Aeroplane.h(84): error C3312: не найдена вызываемая функция "end" для типа "unknown-type"
+c:\users\игорь\yandexdisk\будущее миэт\6 семестр\пиапс\лабы 2018 решения\lab3\piaps3\piaps3\Aeroplane.h(85): error C2065: c: необъявленный идентификатор
+c:\users\игорь\yandexdisk\будущее миэт\6 семестр\пиапс\лабы 2018 решения\lab3\piaps3\piaps3\Aeroplane.h(85): error C2541: delete: нельзя удалять объекты, не являющиеся указателями
+c:\users\игорь\yandexdisk\будущее миэт\6 семестр\пиапс\лабы 2018 решения\lab3\piaps3\piaps3\Aeroplane.h(86): error C2065: fc: необъявленный идентификатор
+c:\users\игорь\yandexdisk\будущее миэт\6 семестр\пиапс\лабы 2018 решения\lab3\piaps3\piaps3\Aeroplane.h(86): error C2228: выражение слева от ".clear" должно представлять класс, структуру или объединение
+  c:\users\игорь\yandexdisk\будущее миэт\6 семестр\пиапс\лабы 2018 решения\lab3\piaps3\piaps3\Aeroplane.h(86): note: тип: unknown-type
+c:\users\игорь\yandexdisk\будущее миэт\6 семестр\пиапс\лабы 2018 решения\lab3\piaps3\piaps3\Aeroplane.h(87): error C2065: fc: необъявленный идентификатор
+c:\users\игорь\yandexdisk\будущее миэт\6 семестр\пиапс\лабы 2018 решения\lab3\piaps3\piaps3\Aeroplane.h(87): error C2228: выражение слева от ".shrink_to_fit" должно представлять класс, структуру или объединение
+  c:\users\игорь\yandexdisk\будущее миэт\6 семестр\пиапс\лабы 2018 решения\lab3\piaps3\piaps3\Aeroplane.h(87): note: тип: unknown-type
+c:\users\игорь\yandexdisk\будущее миэт\6 семестр\пиапс\лабы 2018 решения\lab3\piaps3\piaps3\Aeroplane.h(89): error C2065: fc: необъявленный идентификатор
+c:\users\игорь\yandexdisk\будущее миэт\6 семестр\пиапс\лабы 2018 решения\lab3\piaps3\piaps3\Aeroplane.h(170): error C2512: CompositeFirstClass::CompositeFirstClass: нет подходящего конструктора по умолчанию
+c:\users\игорь\yandexdisk\будущее миэт\6 семестр\пиапс\лабы 2018 решения\lab3\piaps3\piaps3\Aeroplane.h(172): error C2664: "Passenger::Passenger(Passenger &&)": невозможно преобразовать аргумент 1 из "int" в "const Passenger &"
+  c:\users\игорь\yandexdisk\будущее миэт\6 семестр\пиапс\лабы 2018 решения\lab3\piaps3\piaps3\Aeroplane.h(172): note: Причина: невозможно преобразовать "int" в "const Passenger"
+  c:\users\игорь\yandexdisk\будущее миэт\6 семестр\пиапс\лабы 2018 решения\lab3\piaps3\piaps3\Aeroplane.h(172): note: Ни один конструктор не смог принять исходный тип, либо разрешение перегрузки конструктора неоднозначно
+c:\users\игорь\yandexdisk\будущее миэт\6 семестр\пиапс\лабы 2018 решения\lab3\piaps3\piaps3\Aeroplane.h(175): error C2664: "Passenger::Passenger(Passenger &&)": невозможно преобразовать аргумент 1 из "int" в "const Passenger &"
+  c:\users\игорь\yandexdisk\будущее миэт\6 семестр\пиапс\лабы 2018 решения\lab3\piaps3\piaps3\Aeroplane.h(175): note: Причина: невозможно преобразовать "int" в "const Passenger"
+  c:\users\игорь\yandexdisk\будущее миэт\6 семестр\пиапс\лабы 2018 решения\lab3\piaps3\piaps3\Aeroplane.h(175): note: Ни один конструктор не смог принять исходный тип, либо разрешение перегрузки конструктора неоднозначно
+c:\users\игорь\yandexdisk\будущее миэт\6 семестр\пиапс\лабы 2018 решения\lab3\piaps3\piaps3\Aeroplane.h(182): error C2664: "Passenger::Passenger(Passenger &&)": невозможно преобразовать аргумент 1 из "int" в "const Passenger &"
+  c:\users\игорь\yandexdisk\будущее миэт\6 семестр\пиапс\лабы 2018 решения\lab3\piaps3\piaps3\Aeroplane.h(182): note: Причина: невозможно преобразовать "int" в "const Passenger"
+  c:\users\игорь\yandexdisk\будущее миэт\6 семестр\пиапс\лабы 2018 решения\lab3\piaps3\piaps3\Aeroplane.h(182): note: Ни один конструктор не смог принять исходный тип, либо разрешение перегрузки конструктора неоднозначно
+c:\users\игорь\yandexdisk\будущее миэт\6 семестр\пиапс\лабы 2018 решения\lab3\piaps3\piaps3\Aeroplane.h(192): error C2664: "Passenger::Passenger(Passenger &&)": невозможно преобразовать аргумент 1 из "int" в "const Passenger &"
+  c:\users\игорь\yandexdisk\будущее миэт\6 семестр\пиапс\лабы 2018 решения\lab3\piaps3\piaps3\Aeroplane.h(192): note: Причина: невозможно преобразовать "int" в "const Passenger"
+  c:\users\игорь\yandexdisk\будущее миэт\6 семестр\пиапс\лабы 2018 решения\lab3\piaps3\piaps3\Aeroplane.h(192): note: Ни один конструктор не смог принять исходный тип, либо разрешение перегрузки конструктора неоднозначно
+c:\users\игорь\yandexdisk\будущее миэт\6 семестр\пиапс\лабы 2018 решения\lab3\piaps3\piaps3\Aeroplane.h(197): error C2664: "Passenger::Passenger(Passenger &&)": невозможно преобразовать аргумент 1 из "uint" в "const Passenger &"
+  c:\users\игорь\yandexdisk\будущее миэт\6 семестр\пиапс\лабы 2018 решения\lab3\piaps3\piaps3\Aeroplane.h(197): note: Причина: невозможно преобразовать "uint" в "const Passenger"
+  c:\users\игорь\yandexdisk\будущее миэт\6 семестр\пиапс\лабы 2018 решения\lab3\piaps3\piaps3\Aeroplane.h(197): note: Ни один конструктор не смог принять исходный тип, либо разрешение перегрузки конструктора неоднозначно
